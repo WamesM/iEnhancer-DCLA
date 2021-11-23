@@ -1,3 +1,0 @@
-git rm --cached filename
-git commit -m "hehe"
-git push origin
